@@ -9,11 +9,11 @@ Designed specifically for FDM, all the parts print without support and should fi
 Made to specifically fit the products shown (linked below).
 
 1. [Wiha Set](https://www.wihatools.com/products/esd-safe-micro-bit-set-68-pc-with-esd-safe-tweezers)
-2. [iFixit Set](https://www.ifixit.com/products/mako-driver-kit-64-precision-bits)
-3. [Titanium Handle](https://www.aliexpress.com/item/3256804763697876.html?spm=a2g0o.order_list.order_list_main.4.69d51802YGJWGe)
-4. [Large and Medium Green Handle](https://www.aliexpress.com/item/3256804276191414.html?spm=a2g0o.order_list.order_list_main.9.69d51802YGJWGe)
-5. [Copper Handle](https://www.amazon.com/Columbia-River-Knife-Tool-Driver/dp/B08X5V6DC1)
-6. [Small Handle](https://www.aliexpress.com/item/3256801539094791.html?spm=a2g0o.order_list.order_list_main.10.69d51802YGJWGe)
+2. [Titanium Handle](https://www.aliexpress.com/item/3256804763697876.html?spm=a2g0o.order_list.order_list_main.4.69d51802YGJWGe)
+3. [Copper Handle](https://www.amazon.com/Columbia-River-Knife-Tool-Driver/dp/B08X5V6DC1)
+4. [Small Handle](https://www.aliexpress.com/item/3256801539094791.html?spm=a2g0o.order_list.order_list_main.10.69d51802YGJWGe)
+5. [Large and Medium Green Handle](https://www.aliexpress.com/item/3256804276191414.html?spm=a2g0o.order_list.order_list_main.9.69d51802YGJWGe)
+6. [iFixit Set](https://www.ifixit.com/products/mako-driver-kit-64-precision-bits) 
 7. [1/4" to 1/8" bit adapter (required for all but the "Small Handle")](https://www.wihatools.com/products/micro-bit-to-1-4-drive-insert-bit-adapter)
 
 # License
